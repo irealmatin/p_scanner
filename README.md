@@ -17,4 +17,22 @@
 
 - Generate a top-down “scanned” view of the document
 
+### How to Run
+1 . install dependencies
+```python
+pip install opencv-python numpy
+```
+2 . Run via : 
+```python
+python main.py
+```
+
+** put your path instead of this : ** 
+```python
+img_path = "hand_on/document_scanner/input_image/img_for_scan5.jpg"
+```
+
+### Notes : 
+- Make sure your image clearly shows the document edges
+- The script currently displays the result using OpenCV windows
   
