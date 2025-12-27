@@ -1,8 +1,8 @@
 # Document Scanner
 
-![row image][https://github.com/irealmatin/p_scanner/blob/main/input_image/img_for_scan5.jpg]
-![cooking!!][https://github.com/irealmatin/p_scanner/blob/main/output_image/outlined_image.jpg]
-![scanned image][https://github.com/irealmatin/p_scanner/blob/main/output_image/scanned_image.jpg]
+![row image](https://github.com/irealmatin/p_scanner/blob/main/input_image/img_for_scan5.jpg)
+![cooking!!](https://github.com/irealmatin/p_scanner/blob/main/output_image/outlined_image.jpg)
+![scanned image](https://github.com/irealmatin/p_scanner/blob/main/output_image/scanned_image.jpg)
 
 ## Processing pipeline:
 
