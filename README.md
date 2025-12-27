@@ -22,12 +22,13 @@
 ```python
 pip install opencv-python numpy
 ```
+
 2 . Run via : 
 ```python
 python main.py
 ```
 
-** put your path instead of this : ** 
+**put your path instead of this :** 
 ```python
 img_path = "hand_on/document_scanner/input_image/img_for_scan5.jpg"
 ```
